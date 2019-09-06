@@ -1,0 +1,16 @@
+/**********************************************
+*** GENERAL
+**********************************************/
+
+* 
+
+body {
+    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4));
+    background-size: cover;
+    background-position: center;
+    font-family: monospace;
+    font-weight: 600;
+    position: relative;
+    height: 100vh;
+    color: #555;
+    font-size: 20px;
